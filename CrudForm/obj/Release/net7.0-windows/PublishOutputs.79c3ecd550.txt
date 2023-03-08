@@ -1,0 +1,12 @@
+C:\Users\Studio\Documents\Programming\Visual Studio\FormApplication\source\repos\CrudForm\CrudForm\bin\Release\net7.0-windows\app.publish\CrudForm.exe
+C:\Users\Studio\Documents\Programming\Visual Studio\FormApplication\source\repos\CrudForm\CrudForm\bin\Release\net7.0-windows\app.publish\CrudForm.dll
+C:\Users\Studio\Documents\Programming\Visual Studio\FormApplication\source\repos\CrudForm\CrudForm\bin\Release\net7.0-windows\app.publish\CrudForm.deps.json
+C:\Users\Studio\Documents\Programming\Visual Studio\FormApplication\source\repos\CrudForm\CrudForm\bin\Release\net7.0-windows\app.publish\CrudForm.runtimeconfig.json
+C:\Users\Studio\Documents\Programming\Visual Studio\FormApplication\source\repos\CrudForm\CrudForm\bin\Release\net7.0-windows\app.publish\CrudForm.pdb
+C:\Users\Studio\Documents\Programming\Visual Studio\FormApplication\source\repos\CrudForm\CrudForm\bin\Release\net7.0-windows\app.publish\Google.Protobuf.dll
+C:\Users\Studio\Documents\Programming\Visual Studio\FormApplication\source\repos\CrudForm\CrudForm\bin\Release\net7.0-windows\app.publish\K4os.Compression.LZ4.dll
+C:\Users\Studio\Documents\Programming\Visual Studio\FormApplication\source\repos\CrudForm\CrudForm\bin\Release\net7.0-windows\app.publish\K4os.Compression.LZ4.Streams.dll
+C:\Users\Studio\Documents\Programming\Visual Studio\FormApplication\source\repos\CrudForm\CrudForm\bin\Release\net7.0-windows\app.publish\K4os.Hash.xxHash.dll
+C:\Users\Studio\Documents\Programming\Visual Studio\FormApplication\source\repos\CrudForm\CrudForm\bin\Release\net7.0-windows\app.publish\MySql.Data.dll
+C:\Users\Studio\Documents\Programming\Visual Studio\FormApplication\source\repos\CrudForm\CrudForm\bin\Release\net7.0-windows\app.publish\ZstdNet.dll
+C:\Users\Studio\Documents\Programming\Visual Studio\FormApplication\source\repos\CrudForm\CrudForm\bin\Release\net7.0-windows\app.publish\BouncyCastle.Crypto.dll
